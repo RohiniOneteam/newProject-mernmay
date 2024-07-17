@@ -1,1 +1,1 @@
-alert("thankyou")
+alert("thankyou all")
